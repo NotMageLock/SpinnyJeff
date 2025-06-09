@@ -1,4 +1,4 @@
 # SpinnyJeff
-Funny mod/n
+Funny mod  
 Requires:
 [SamLib](https://github.com/NotMageLock/SamLib)
